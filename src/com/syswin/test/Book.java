@@ -23,6 +23,7 @@ public class Book implements Comparable { // ¶¨ÒåÃûÎªBookµÄÀà£¬Ä¬ÈÏ¼Ì³Ğ×ÔObjectÀ
 		this(0, "X", 0.0, new GregorianCalendar(), "");
 	}
 
+	// add test
 	public Book(int id, String name, double price, GregorianCalendar calender,
 			String author) {
 		this.id = id;
